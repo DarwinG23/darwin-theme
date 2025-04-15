@@ -17,5 +17,15 @@
         "path": "./themes/Darwin Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icons/logo.png",
+  "author": {
+    "name": "Darwin Granda",
+    "email": "darwin.granda@unl.edu.ec"
+  },
+  "repository": {
+  "url": "https://github.com/DarwinG23/darwin-theme.git",
+  "type": "git"
+  },
+  "publisher": "Darwin_G24"
 }
